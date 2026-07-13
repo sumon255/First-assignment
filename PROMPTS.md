@@ -1,2 +1,3 @@
 First prompt: I am designing a developer conference website. There is a speakers, Schedule, Tracks, Venue and Blog options in the navigation menu. After the 'Navbar, I designed the hero section, the speakers section, and the secure your spot (pricing) section on the home page. Now i want to design a section after the Secure your spot (pricing) section, that will be relevant with this project. Now, first give me an idea of ​​the options available to create this section.
+
 Second prompt: I want to include "Venue preview" in that section. Now give me design idea with HTML and CSS code.
